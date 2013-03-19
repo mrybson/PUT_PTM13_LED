@@ -1,0 +1,4 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~Project GEORGE~~~~~~~~~~~~
+1. Skonfigurowanie Visual Studio aby komunikowa³ siê z STM32
+2. Program w C# rozpoznaj¹cy mowê i wysy³¹j¹cy odpowiednie komendy do STM32
+3. Na podstawie odebranych komend sterowanie diodami
